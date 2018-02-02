@@ -62,7 +62,7 @@ READY TO CONSIDER A CHANGE?
 Are you still reading this instead of writing?  I can think of a few reasons
 for that.
 
-1. You don't actually have a working computer.
+1.  You don't actually have a working computer.
 
 2.  Your computer works, but you're frustrated with Windows, Office, or
 both.

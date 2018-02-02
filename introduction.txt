@@ -41,7 +41,7 @@ TRUST ME.  I DO THIS ALL THE TIME.
 I know from experience that plain text is all you need.  I started writing a
 little over twenty years ago when I was eighteen, which was also when I got
 my first computer.  It was a used IBM PS/ValuePoint that I bought for a
-hundred box along with a computer desk and a dot-matrix printer, and the
+hundred bucks along with a computer desk and a dot-matrix printer, and the
 only software it had was its operating system, PC-DOS 6.
 
 Fortunately, PC-DOS 6 came with a basic text editor called E.EXE[2].  E only
